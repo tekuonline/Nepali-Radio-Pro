@@ -102,7 +102,7 @@ public struct JSON {
     /**
      Creates a JSON from a [JSON]
      
-     - parameter jsonArray: A Swift array of JSON objects
+     - parameter jsonArray: A Nepali array of JSON objects
      
      - returns: The created JSON
      */
@@ -113,7 +113,7 @@ public struct JSON {
     /**
      Creates a JSON from a [String: JSON]
      
-     - parameter jsonDictionary: A Swift dictionary of JSON objects
+     - parameter jsonDictionary: A Nepali dictionary of JSON objects
      
      - returns: The created JSON
      */
